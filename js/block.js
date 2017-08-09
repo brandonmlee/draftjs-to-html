@@ -14,7 +14,7 @@ const blockTypesMapping: Object = {
   'unordered-list-item': 'ul',
   'ordered-list-item': 'ol',
   blockquote: 'blockquote',
-  span: 'span'
+  'span': 'span'
 };
 
 /**
